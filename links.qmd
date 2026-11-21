@@ -102,17 +102,20 @@ toc: false
     <a class="rceh-bio-btn" href="https://forms.gle/o6trcg8i6oHJtZmQ9" target="_blank" rel="noopener">
       Seja Parecerista ad hoc (Formulário 3)
     </a>
-    <a class="rceh-bio-btn" href="normas.html">
+    <a class="rceh-bio-btn" href="https://walterfr.github.io/RCEH/" target="_blank" rel="noopener">
+      Site Oficial da RCEH
+    </a>
+    <a class="rceh-bio-btn" href="https://walterfr.github.io/RCEH/normas.html" target="_blank" rel="noopener">
       Normas para Autores e Templates (.docx)
     </a>
-    <a class="rceh-bio-btn" href="edicoes/v1-2026/index.html">
+    <a class="rceh-bio-btn" href="https://walterfr.github.io/RCEH/edicoes/v1-2026/index.html" target="_blank" rel="noopener">
       Volume 1 (2026) — Publicações
     </a>
-    <a class="rceh-bio-btn" href="politica.html">
-      Política Editorial e Uso de IA
+    <a class="rceh-bio-btn" href="https://www.instagram.com/revistaceh" target="_blank" rel="noopener">
+      Instagram Oficial (@revistaceh)
     </a>
-    <a class="rceh-bio-btn" href="index.html">
-      Acessar Site Completo da RCEH
+    <a class="rceh-bio-btn" href="mailto:walterfr@gmail.com">
+      Contato Editorial (walterfr@gmail.com)
     </a>
     <a class="rceh-bio-btn" href="https://github.com/walterfr/RCEH" target="_blank" rel="noopener">
       Repositório Oficial no GitHub
