@@ -190,3 +190,35 @@ h1, h2, h3, h4 {
   border-radius: 0 6px 6px 0;
   margin: 1.5rem 0;
 }
+
+/* Ajustes finos para telas pequenas (celulares) */
+@media (max-width: 640px) {
+  .hero-rceh {
+    padding: 1.6rem 1.2rem;
+    margin: 0.6rem 0 1.5rem 0;
+  }
+
+  .hero-rceh h1 {
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+
+  .hero-rceh p {
+    font-size: 0.98rem;
+  }
+
+  .acoes-rceh {
+    flex-direction: column;
+  }
+
+  .btn-rceh-primario,
+  .btn-rceh-secundario {
+    width: 100%;
+    text-align: center;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+  }
+}
