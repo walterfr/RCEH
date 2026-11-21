@@ -1,18 +1,18 @@
----
+﻿---
 title: "Política Editorial"
 ---
 
-## Acesso Aberto Diamante
-A **RCEH — Revista Cearense de Estudos Históricos** oferece acesso livre e imediato ao seu conteúdo, seguindo o princípio de que disponibilizar gratuitamente o conhecimento científico ao público proporciona maior democratização mundial do conhecimento. Não há cobrança de taxas para submissão, avaliação ou publicação de artigos (APC zero).
+## Acesso Aberto Diamante e Ausência de Taxas
+A **RCEH — Revista Cearense de Estudos Históricos** oferece acesso livre, gratuito e imediato a todo o seu conteúdo, seguindo o princípio de democratização do conhecimento científico. A revista **não cobra taxas** de submissão, avaliação, diagramação ou publicação de artigos (APC zero) e **não pretende instituir cobranças futuras**.
 
 ## Licença de Uso e Direitos Autorais
-Os autores mantêm os direitos autorais sobre seus textos e concedem à revista o direito de primeira publicação sob a licença **Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)**, permitindo o compartilhamento e a adaptação do trabalho com atribuição obrigatória de autoria e publicação inicial na RCEH.
+Os autores mantêm os direitos autorais sobre seus trabalhos e concedem à RCEH o direito de primeira publicação sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br), permitindo compartilhamento e adaptação com atribuição obrigatória de autoria e publicação original na revista.
 
 ## Avaliação por Pares Duplo-Cega
-Todas as submissões passam por triagem editorial inicial (*desk review*) para verificação de escopo, adequação às normas e anonimização. Os manuscritos aprovados na triagem são encaminhados a, no mínimo, dois pareceristas externos *ad hoc* com titulação igual ou superior à maior titulação declarada entre os autores.
+Todas as submissões passam por triagem editorial inicial (*desk review*) para verificação de escopo, adequação às normas e anonimização. Os manuscritos aprovados na triagem são encaminhados a, no mínimo, dois pareceristas externos *ad hoc* com titulação igual ou superior à maior titulação declarada entre os autores, cabendo ao Editor-Chefe a decisão editorial final com base nos pareceres.
 
-## Ética na Publicação e Combate ao Plágio
-Os trabalhos submetidos devem ser inéditos e não podem estar em processo de avaliação simultânea em outro periódico. A identificação de plágio, autoplágio, fabricação ou falsificação de dados ou conflitos de interesse não declarados acarretará rejeição imediata do manuscrito (ou retratação formal, caso constatada após a publicação).
+## Ética, Uso de IA e Detecção de Plágio
+Os trabalhos submetidos devem ser inéditos e não estar sob avaliação simultânea em outro periódico. Na triagem inicial, a equipe editorial realiza verificação de similaridade e plágio por meio de conferência textual em bases acadêmicas e mecanismos de busca. A constatação de plágio, autoplágio, falsificação de dados ou conflito de interesses não declarado resulta em rejeição imediata (ou retratação formal, se identificada após a publicação). Os autores devem ainda declarar na Folha de Rosto eventual utilização de ferramentas de Inteligência Artificial generativa e sua finalidade.
 
 ## Preservação Digital e DOI
-Todos os artigos publicados recebem identificador persistente **DOI** gratuito depositado junto ao repositório [Zenodo](https://zenodo.org/) (CERN/OpenAIRE), assegurando arquivamento e preservação digital de longo prazo.
+A preservação digital de longo prazo é assegurada em dupla camada: todos os artigos publicados têm seus PDFs finais depositados e preservados no repositório aberto [Zenodo](https://zenodo.org/) (infraestrutura mantida pelo CERN/OpenAIRE) com identificador persistente **DOI**, enquanto os textos em HTML e os metadados bibliográficos permanecem versionados publicamente no repositório oficial do projeto no GitHub.

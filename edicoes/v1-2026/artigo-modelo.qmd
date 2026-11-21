@@ -1,9 +1,9 @@
----
+﻿---
 title: "Título Completo do Artigo Modelo"
 author:
   - name: "Nome do Autor Principal"
     orcid: "0000-0000-0000-0000"
-    affiliation: "Instituição de Vínculo"
+    affiliation: "Nome Completo da Instituição, Cidade, UF, Brasil"
 date: "2026-11-21"
 abstract: "Resumo completo do artigo entre 150 e 250 palavras, apresentando objeto, objetivos, metodologia, fontes e principais conclusões."
 keywords:
@@ -23,7 +23,8 @@ citation:
   # issn: "XXXX-XXXX" # Descomentar após atribuição pelo CBISSN/IBICT
 ---
 
-**Recebido em:** DD/MM/AAAA | **Aprovado em:** DD/MM/AAAA  
+**RCEH — Revista Cearense de Estudos Históricos**, Fortaleza – CE, Brasil, v. 1, Ano 2026  
+**Recebido em:** DD/MM/AAAA | **Aprovado em:** DD/MM/AAAA | **Publicado em:** DD/MM/AAAA  
 **DOI:** [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)  
 **Download do PDF:** [Acessar versão final diagramada no Zenodo](https://zenodo.org/records/XXXXXXX/files/artigo-modelo.pdf)
 
@@ -35,5 +36,10 @@ Resumo completo do artigo em português.
 ## Resumen / Abstract
 Resumo em espanhol ou inglês.
 
+**Palabras clave / Keywords:** Palavra 1; Palavra 2; Palavra 3.
+
 ## Introdução
-Texto de exemplo mostrando como publicar a página HTML do artigo com as metatags `citation_*` geradas automaticamente pelo Quarto para indexação no Google Acadêmico.
+Texto de exemplo mostrando como publicar a página HTML do artigo com as metatags `citation_*` geradas automaticamente pelo Quarto para indexação no Google Acadêmico, membrete bibliográfico completo, datas de tramitação e afiliação institucional completa (com cidade e país) exigidos pelo Latindex Catálogo 2.0 e pelo DOAJ.
+
+## Como citar este artigo (ABNT)
+SOBRENOME, Nome. Título completo do artigo modelo. **RCEH — Revista Cearense de Estudos Históricos**, Fortaleza, v. 1, p. 1-20, 2026. DOI: 10.5281/zenodo.XXXXXXX.
