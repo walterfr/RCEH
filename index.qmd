@@ -9,7 +9,7 @@ toc: false
 Periódico Científico de História
 :::
 # RCEH — Revista Cearense de Estudos Históricos
-Publicação acadêmica dedicada à pesquisa histórica sobre o Ceará, o Nordeste, o Brasil e o mundo, em diálogo com a teoria da história, a historiografia, as espacialidades e o ensino de História.
+Publicação acadêmica dedicada à pesquisa histórica, abrangendo teoria, historiografia, ensino e estudos sobre espacialidades.
 
 ::: {.badges-rceh}
 [Acesso Aberto Diamante]{.badge-rceh}
@@ -60,3 +60,4 @@ Conheça as linhas temáticas prioritárias, a licença CC BY 4.0 e as diretrize
 A **RCEH — Revista Cearense de Estudos Históricos** é um periódico científico gratuito (sem taxas de submissão ou publicação) e revisado por pares em sistema duplo-cego. Embora priorize estudos sobre a **História do Ceará e do Nordeste brasileiro**, a revista acolhe contribuições sobre outras regiões, estados e cidades do Brasil e do mundo.
 
 Entre as abordagens e linhas temáticas privilegiadas estão **espacialidades**, **história urbana**, **historiografia**, **teoria da história**, **história oral, memória e patrimônio**, **ensino de História e humanidades digitais**, **história do tempo presente** e **história pública e usos do passado**.
+
