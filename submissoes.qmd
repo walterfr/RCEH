@@ -4,7 +4,10 @@ title: "Submissões e Cadastro de Pareceristas"
 
 ## Enviar Manuscrito
 
-Antes de enviar seu texto, leia atentamente as [Normas para Autores](normas.qmd) e prepare os dois arquivos obrigatórios em separado (**Folha de Rosto** e **Manuscrito Anonimizado**).
+Antes de enviar seu texto, leia as [Normas para Autores](normas.qmd) e utilize os modelos padrão para preparar os dois arquivos obrigatórios em separado:
+
+* [Baixar Template — Folha de Rosto (.docx)](assets/RCEH_Template_Folha_de_Rosto.docx)
+* [Baixar Template — Manuscrito Anonimizado (.docx)](assets/RCEH_Template_Manuscrito_Anonimizado.docx)
 
 [Acessar Formulário de Submissão](https://forms.gle/dKcsikbzuJ6wuhhw6){.btn-rceh-primario target="_blank"}
 

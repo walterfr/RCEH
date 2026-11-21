@@ -1,29 +1,33 @@
----
+﻿---
 title: "Normas para Autores"
 ---
 
-## Idiomas Aceitos
-Português e Espanhol.
+## Modelos Padrão para Download (`.docx`)
 
-## Modalidades e Extensão
-*(Contagem incluindo notas de rodapé e referências bibliográficas)*
+Utilize os modelos oficiais abaixo para preparar sua submissão em dois arquivos separados:
+
+::: {.acoes-rceh}
+[Baixar Template — Folha de Rosto (.docx)](assets/RCEH_Template_Folha_de_Rosto.docx){.btn-rceh-primario}
+[Baixar Template — Manuscrito Anonimizado (.docx)](assets/RCEH_Template_Manuscrito_Anonimizado.docx){.btn-rceh-primario}
+:::
+
+## Idiomas e Modalidades Aceitas
+Português e Espanhol, nas modalidades abaixo *(contagem incluindo notas e referências)*:
 
 * **Artigos científicos originais e Dossiês temáticos:** entre 15 e 25 laudas.
-* **Entrevistas:** entre 8 e 15 laudas.
-* **Resenhas críticas** (de obras publicadas nos últimos 3 anos): entre 4 e 8 laudas.
+* **Traduções** (acompanhadas do texto original e autorização, quando aplicável): entre 10 e 25 laudas.
+* **Entrevistas** (com breve biografia e termo de autorização do entrevistado): entre 8 e 15 laudas.
+* **Resenhas críticas** (dispensam resumo e palavras-chave; informar referência completa da obra no topo): entre 4 e 8 laudas.
 
 ## Formatação e Padrão ABNT
-* Envio em formato `.pdf` ou `.docx` na submissão (após o aceite, poderá ser solicitada versão editável em `.docx` para diagramação final).
-* Papel A4; margens superior e esquerda de 3 cm, inferior e direita de 2 cm.
-* Fonte Times New Roman tamanho 12 pt no corpo do texto e 10 pt em citações diretas com mais de 3 linhas, notas de rodapé e legendas.
-* Espaçamento entre linhas de 1,5 no texto e simples nas citações recuadas e referências.
-* Citações, notas e referências bibliográficas devem seguir rigorosamente as normas vigentes da **ABNT** (NBR 6023, NBR 10520, NBR 6028 e NBR 6022).
+* Envio em `.pdf` ou `.docx` na submissão (após o aceite, poderá ser solicitada versão editável em `.docx`).
+* Papel A4; margens superior e esquerda de 3 cm, inferior e direita de 2 cm; páginas **sem numeração** na submissão.
+* Fonte Times New Roman 12 pt no corpo do texto (espaçamento 1,5, recuo de 1,25 cm, alinhamento justificado) e 10 pt em citações diretas com mais de 3 linhas (recuo de 4 cm, espaçamento simples).
+* Citações no sistema **autor-data** no corpo do texto e referências conforme **ABNT** (NBR 6023, NBR 10520, NBR 6028 e NBR 6022). Não utilizar notas de fim; notas de rodapé devem ser **exclusivamente explicativas** (fonte 9–10 pt).
+* **Ilustrações, gráficos, tabelas e quadros:** resolução mínima de **300 dpi** (`.jpg` ou `.png`), com título centralizado acima (`12 pt`) e `Fonte:` centralizada abaixo (`10 pt`).
 
-## Estrutura Obrigatória do Manuscrito
-Título (no idioma original e em um segundo idioma), Resumo (150 a 250 palavras) e de 3 a 5 Palavras-chave (também em segundo idioma), introdução, desenvolvimento, considerações finais e referências.
-
-## Regras de Anonimização (Avaliação Duplo-Cega)
+## Regras de Anonimização e Declarações (Duplo-Cego)
 A submissão exige **dois arquivos separados**:
 
-1. **Folha de Rosto:** título, nome(s) completo(s) do(s) autor(es), maior titulação acadêmica, filiação institucional, e-mail, ORCID, eventual fonte de financiamento e agradecimentos.
-2. **Manuscrito Anonimizado:** apenas o texto do trabalho, **sem qualquer identificação de autoria** no corpo do texto, nos agradecimentos, em links pessoais ou nas propriedades internas do arquivo. Autocitações na fase de avaliação devem ser substituídas por `[Autor, Ano]`.
+1. **Folha de Rosto:** título, nome(s) completo(s) do(s) autor(es), maior titulação acadêmica, filiação institucional, e-mail, ORCID, origem da pesquisa (TCC, dissertação, tese ou IC), financiamento/agradecimentos e **declaração de uso de Inteligência Artificial** (se aplicável).
+2. **Manuscrito Anonimizado:** apenas o texto do trabalho, **sem qualquer identificação de autoria** no texto, nos agradecimentos, em links pessoais ou nas propriedades internas do arquivo. Autocitações na fase de avaliação devem ser substituídas por `[Autor, Ano]`.

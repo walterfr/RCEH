@@ -1,26 +1,27 @@
----
+﻿---
 title: "Foco e Escopo e Periodicidade"
 ---
 
 ## Foco e Escopo
 
-A **RCEH — Revista Cearense de Estudos Históricos** é um periódico científico de acesso aberto, gratuito e revisado por pares em sistema duplo-cego, dedicado à divulgação de pesquisas originais no campo da História e áreas afins.
+A **RCEH â€” Revista Cearense de Estudos HistÃ³ricos** Ã© um periÃ³dico cientÃ­fico de acesso aberto, gratuito e revisado por pares em sistema duplo-cego, dedicado Ã  divulgaÃ§Ã£o de pesquisas originais no campo da HistÃ³ria e Ã¡reas afins.
 
-A revista prioriza estudos voltados à História do Ceará e do Nordeste brasileiro, mantendo-se aberta a pesquisas e diálogos historiográficos sobre outras regiões, estados e cidades do Brasil e do mundo.
+A revista prioriza estudos voltados Ã  HistÃ³ria do CearÃ¡ e do Nordeste brasileiro, mantendo-se aberta a pesquisas e diÃ¡logos historiogrÃ¡ficos sobre outras regiÃµes, estados e cidades do Brasil e do mundo.
 
-Entre as abordagens e linhas temáticas acolhidas destacam-se:
+Entre as abordagens e linhas temÃ¡ticas acolhidas destacam-se:
 
-* História do Ceará e do Nordeste
-* História do Brasil e América
-* História Urbana e Espacialidades
-* Historiografia e Teoria da História
-* História Oral, Memória e Patrimônio
-* Ensino de História e Humanidades Digitais
-* História do Tempo Presente
-* História Pública e Usos do Passado
+* HistÃ³ria do CearÃ¡ e do Nordeste
+* HistÃ³ria do Brasil e AmÃ©rica
+* HistÃ³ria Urbana e Espacialidades
+* Historiografia e Teoria da HistÃ³ria
+* HistÃ³ria Oral, MemÃ³ria e PatrimÃ´nio
+* Ensino de HistÃ³ria e Humanidades Digitais
+* HistÃ³ria do Tempo Presente
+* HistÃ³ria PÃºblica e Usos do Passado
 
-São aceitas submissões inéditas em **português** e **espanhol**, nas seguintes modalidades: artigos científicos originais, dossiês temáticos, entrevistas e resenhas críticas de obras historiográficas recentes.
+SÃ£o aceitas submissÃµes inÃ©ditas em **portuguÃªs** e **espanhol**, nas seguintes modalidades: artigos cientÃ­ficos originais, dossiÃªs temÃ¡ticos, entrevistas e resenhas crÃ­ticas de obras historiogrÃ¡ficas recentes.
 
 ## Periodicidade
 
-A **RCEH — Revista Cearense de Estudos Históricos** adota o regime de **fluxo contínuo anual** (Volume único por ano civil, p. ex., Volume 1, Ano 2026). Nesse formato, os artigos aprovados são diagramados e publicados imediatamente após a conclusão do processo editorial e atribuição de DOI via [Zenodo](https://zenodo.org/), integrando o volume vigente do respectivo ano.
+A **RCEH â€” Revista Cearense de Estudos HistÃ³ricos** adota o regime de **fluxo contÃ­nuo anual** (Volume Ãºnico por ano civil, p. ex., Volume 1, Ano 2026). Nesse formato, os artigos aprovados sÃ£o diagramados e publicados imediatamente apÃ³s a conclusÃ£o do processo editorial e atribuiÃ§Ã£o de DOI via [Zenodo](https://zenodo.org/), integrando o volume vigente do respectivo ano.
+
