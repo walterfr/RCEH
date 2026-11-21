@@ -5,7 +5,7 @@ page-layout: full
 toc: false
 ---
 
-```{=html}
+~~~{=html}
 <style>
   #quarto-header, .quarto-title-block, footer.footer {
     display: none !important;
@@ -96,10 +96,10 @@ toc: false
   </p>
 
   <div class="rceh-bio-links">
-    <a class="rceh-bio-btn destaque" href="[https://forms.gle/dKcsikbzuJ6wuhhw6](https://forms.gle/dKcsikbzuJ6wuhhw6)" target="_blank" rel="noopener">
+    <a class="rceh-bio-btn destaque" href="https://forms.gle/dKcsikbzuJ6wuhhw6" target="_blank" rel="noopener">
       Submeter Manuscrito (Formulário 1)
     </a>
-    <a class="rceh-bio-btn" href="[https://forms.gle/o6trcg8i6oHJtZmQ9](https://forms.gle/o6trcg8i6oHJtZmQ9)" target="_blank" rel="noopener">
+    <a class="rceh-bio-btn" href="https://forms.gle/o6trcg8i6oHJtZmQ9" target="_blank" rel="noopener">
       Seja Parecerista ad hoc (Formulário 3)
     </a>
     <a class="rceh-bio-btn" href="normas.html">
@@ -114,7 +114,7 @@ toc: false
     <a class="rceh-bio-btn" href="index.html">
       Acessar Site Completo da RCEH
     </a>
-    <a class="rceh-bio-btn" href="[https://github.com/walterfr/RCEH](https://github.com/walterfr/RCEH)" target="_blank" rel="noopener">
+    <a class="rceh-bio-btn" href="https://github.com/walterfr/RCEH" target="_blank" rel="noopener">
       Repositório Oficial no GitHub
     </a>
   </div>
@@ -123,3 +123,4 @@ toc: false
     Fortaleza – CE, Brasil • walterfr@gmail.com
   </div>
 </div>
+~~~
