@@ -1,18 +1,23 @@
 ﻿---
-title: "Submissões e Cadastro de Pareceristas"
+title: "Submissões e Pareceristas"
 ---
 
-## Enviar Manuscrito
+## Submissão de Manuscritos (Fluxo Contínuo)
 
-Antes de enviar seu texto, leia as [Normas para Autores](normas.qmd) e utilize os modelos padrão para preparar os dois arquivos obrigatórios em separado:
+Antes de enviar seu trabalho, confira atentamente as [Normas para Autores](normas.qmd) e certifique-se de preparar os **dois arquivos obrigatórios em separado**:
 
-* [Baixar Template — Folha de Rosto (.docx)](assets/RCEH_Template_Folha_de_Rosto.docx)
-* [Baixar Template — Manuscrito Anonimizado (.docx)](assets/RCEH_Template_Manuscrito_Anonimizado.docx)
+1. **Folha de Rosto** (com identificação completa dos autores, afiliação, ORCID e declarações);
+2. **Manuscrito Anonimizado** (sem qualquer identificação de autoria no texto ou nas propriedades do arquivo).
 
-[Acessar Formulário de Submissão](https://forms.gle/dKcsikbzuJ6wuhhw6){.btn-rceh-primario target="_blank"}
+[Acessar Formulário 1 — Submissão de Manuscritos](https://forms.gle/dKcsikbzuJ6wuhhw6){.btn .btn-warning target="_blank"}
 
-## Chamada para Pareceristas *ad hoc*
+## Chamada Pública para Pareceristas *ad hoc*
 
-Pesquisadores graduados, especialistas, mestres e doutores das áreas contempladas pela **RCEH** podem se cadastrar como pareceristas voluntários para avaliação em sistema duplo-cego:
+A **RCEH — Revista Cearense de Estudos Históricos** mantém chamada aberta permanente para pesquisadores(as) interessados(as) em integrar seu banco de pareceristas *ad hoc* em regime duplo-cego.
 
-[Cadastrar-se como Parecerista](https://forms.gle/o6trcg8i6oHJtZmQ9){.btn-rceh-primario target="_blank"}
+**Critério de titulação para avaliação:**
+
+* **Manuscritos de autores com Mestrado ou Doutorado:** avaliados por pareceristas com titulação mínima de **Doutor(a)**.
+* **Manuscritos de graduandos (*Comunicações de Pesquisa*), graduados ou especialistas:** podem ser avaliados por **mestrandos e doutorandos** (além de mestres e doutores), assegurando rigor metodológico e retorno formativo.
+
+[Cadastrar-se no Formulário 3 — Pareceristas ad hoc](https://forms.gle/o6trcg8i6oHJtZmQ9){.btn .btn-outline-primary target="_blank"}

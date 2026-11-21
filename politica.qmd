@@ -15,7 +15,7 @@ A RCEH incentiva o **autoarquivamento**: os autores podem depositar a versão fi
 ## Fluxo de Avaliação por Pares (Duplo-Cego)
 
 1. **Triagem editorial (*desk review*):** verificação de escopo, extensão, adequação às normas da ABNT e anonimização.
-2. **Avaliação duplo-cega:** os manuscritos aprovados na triagem são enviados a, no mínimo, **dois pareceristas externos *ad hoc*** com titulação acadêmica igual ou superior à maior titulação declarada entre os autores. Textos da seção **Comunicações de Pesquisa (Graduação)** passam pelo mesmo fluxo duplo-cego, com pareceres de caráter formativo.
+2. **Avaliação duplo-cega:** os manuscritos aprovados na triagem são enviados a, no mínimo, **dois pareceristas externos *ad hoc***. Textos de autores com Mestrado ou Doutorado são avaliados por pareceristas com título mínimo de **Doutor(a)**; trabalhos de **graduandos** (seção *Comunicações de Pesquisa*), **graduados** ou **especialistas** podem ser avaliados por **mestrandos e doutorandos** (além de mestres e doutores), com caráter formativo.
 3. **Desempate por terceiro parecerista:** em caso de pareceres divergentes (um favorável e outro pela rejeição), o manuscrito é encaminhado a um **3º parecerista *ad hoc*** para desempate antes da decisão final do Editor-Chefe.
 
 ## Ética na Publicação e Combate ao Plágio
@@ -31,3 +31,4 @@ Os manuscritos submetidos devem ser inéditos e não podem estar em avaliação 
 
 * **Preservação digital e DOI:** todos os trabalhos publicados recebem identificador persistente **DOI** depositado no repositório [Zenodo](https://zenodo.org/) (CERN/OpenAIRE), garantindo arquivamento e preservação digital de longo prazo.
 * **Política de privacidade:** os nomes e endereços de e-mail informados à RCEH são utilizados exclusivamente para os serviços editoriais do periódico e não serão disponibilizados para outras finalidades ou cedidos a terceiros.
+
