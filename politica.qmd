@@ -2,17 +2,32 @@
 title: "Política Editorial"
 ---
 
-## Acesso Aberto Diamante e Ausência de Taxas
-A **RCEH — Revista Cearense de Estudos Históricos** oferece acesso livre, gratuito e imediato a todo o seu conteúdo, seguindo o princípio de democratização do conhecimento científico. A revista **não cobra taxas** de submissão, avaliação, diagramação ou publicação de artigos (APC zero) e **não pretende instituir cobranças futuras**.
+## Acesso Aberto Diamante (Sem Taxas)
 
-## Licença de Uso e Direitos Autorais
-Os autores mantêm os direitos autorais sobre seus trabalhos e concedem à RCEH o direito de primeira publicação sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br), permitindo compartilhamento e adaptação com atribuição obrigatória de autoria e publicação original na revista.
+A **RCEH — Revista Cearense de Estudos Históricos** oferece acesso livre, gratuito e imediato ao seu conteúdo, adotando o modelo de **Acesso Aberto Diamante**: não há qualquer cobrança de taxas de submissão, avaliação ou publicação de artigos (APC zero) agora ou futuramente.
 
-## Avaliação por Pares Duplo-Cega
-Todas as submissões passam por triagem editorial inicial (*desk review*) para verificação de escopo, adequação às normas e anonimização. Os manuscritos aprovados na triagem são encaminhados a, no mínimo, dois pareceristas externos *ad hoc* com titulação igual ou superior à maior titulação declarada entre os autores, cabendo ao Editor-Chefe a decisão editorial final com base nos pareceres.
+## Licença de Uso, Direitos Autorais e Autoarquivamento
 
-## Ética, Uso de IA e Detecção de Plágio
-Os trabalhos submetidos devem ser inéditos e não estar sob avaliação simultânea em outro periódico. Na triagem inicial, a equipe editorial realiza verificação de similaridade e plágio por meio de conferência textual em bases acadêmicas e mecanismos de busca. A constatação de plágio, autoplágio, falsificação de dados ou conflito de interesses não declarado resulta em rejeição imediata (ou retratação formal, se identificada após a publicação). Os autores devem ainda declarar na Folha de Rosto eventual utilização de ferramentas de Inteligência Artificial generativa e sua finalidade.
+Os autores mantêm os direitos autorais sobre seus textos e concedem à RCEH o direito de primeira publicação sob a licença **Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)**, permitindo o compartilhamento e a adaptação do trabalho mediante atribuição obrigatória de autoria e indicação da publicação original na revista.
 
-## Preservação Digital e DOI
-A preservação digital de longo prazo é assegurada em dupla camada: todos os artigos publicados têm seus PDFs finais depositados e preservados no repositório aberto [Zenodo](https://zenodo.org/) (infraestrutura mantida pelo CERN/OpenAIRE) com identificador persistente **DOI**, enquanto os textos em HTML e os metadados bibliográficos permanecem versionados publicamente no repositório oficial do projeto no GitHub.
+A RCEH incentiva o **autoarquivamento**: os autores podem depositar a versão final publicada (PDF com DOI e referência completa da revista) em repositórios institucionais, páginas pessoais ou redes acadêmicas, em consonância com as diretrizes do [Diadorim/IBICT](https://diadorim.ibict.br/vufind/Sobre/Home).
+
+## Fluxo de Avaliação por Pares (Duplo-Cego)
+
+1. **Triagem editorial (*desk review*):** verificação de escopo, extensão, adequação às normas da ABNT e anonimização.
+2. **Avaliação duplo-cega:** os manuscritos aprovados na triagem são enviados a, no mínimo, **dois pareceristas externos *ad hoc*** com titulação acadêmica igual ou superior à maior titulação declarada entre os autores. Textos da seção **Comunicações de Pesquisa (Graduação)** passam pelo mesmo fluxo duplo-cego, com pareceres de caráter formativo.
+3. **Desempate por terceiro parecerista:** em caso de pareceres divergentes (um favorável e outro pela rejeição), o manuscrito é encaminhado a um **3º parecerista *ad hoc*** para desempate antes da decisão final do Editor-Chefe.
+
+## Ética na Publicação e Combate ao Plágio
+
+Os manuscritos submetidos devem ser inéditos e não podem estar em avaliação simultânea em outro periódico. A identificação de plágio, autoplágio, fabricação ou falsificação de dados, bem como conflitos de interesse não declarados, acarretará rejeição imediata do texto (ou retratação formal, caso constatada após a publicação).
+
+## Política de Uso de Inteligência Artificial Generativa (IA)
+
+* **Uso permitido (mediante declaração obrigatória na Folha de Rosto):** apoio em revisão gramatical e ortográfica, tradução auxiliar, organização de referências e formatação de metadados.
+* **Uso proibido:** geração de análises historiográficas originais, fabricação ou simulação de fontes primárias, referências bibliográficas ou dados empíricos, bem como submissão de manuscritos ou pareceres produzidos integralmente por ferramentas de IA generativa.
+
+## Preservação Digital e Política de Privacidade
+
+* **Preservação digital e DOI:** todos os trabalhos publicados recebem identificador persistente **DOI** depositado no repositório [Zenodo](https://zenodo.org/) (CERN/OpenAIRE), garantindo arquivamento e preservação digital de longo prazo.
+* **Política de privacidade:** os nomes e endereços de e-mail informados à RCEH são utilizados exclusivamente para os serviços editoriais do periódico e não serão disponibilizados para outras finalidades ou cedidos a terceiros.
