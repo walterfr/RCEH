@@ -1,20 +1,192 @@
-/* Estilo editorial sobrio para a RCEH */
+﻿@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,500;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap');
+
+:root {
+  --rceh-azul: #162447;
+  --rceh-azul-medio: #1f3566;
+  --rceh-dourado: #c59b27;
+  --rceh-fundo-suave: #f7f8fb;
+  --rceh-borda: #e2e6f0;
+}
+
 body {
-  font-family: Georgia, "Times New Roman", serif;
-  line-height: 1.7;
+  font-family: "Source Serif 4", Georgia, serif;
+  color: #1e293b;
+  line-height: 1.75;
 }
 
-h1, h2, h3, .navbar, .sidebar {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+h1, h2, h3, h4 {
+  font-family: "Lora", Georgia, serif;
+  color: var(--rceh-azul);
 }
 
+/* Correção de contraste da barra de navegação */
 .navbar {
-  background-color: #1f2e54 !important;
+  background-color: var(--rceh-azul) !important;
+  border-bottom: 3px solid var(--rceh-dourado);
+  font-family: "Inter", sans-serif;
+  padding: 0.7rem 1rem;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .menu-text,
+.navbar .bi {
+  color: #ffffff !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active,
+.navbar .navbar-brand:hover {
+  color: #f6d57a !important;
+}
+
+.navbar .dropdown-menu {
+  background-color: #ffffff;
+  border: 1px solid var(--rceh-borda);
+}
+
+.navbar .dropdown-item {
+  color: var(--rceh-azul) !important;
+}
+
+.navbar .dropdown-item:hover {
+  background-color: var(--rceh-fundo-suave);
+}
+
+/* Hero Banner da Capa */
+.hero-rceh {
+  background: linear-gradient(135deg, #162447 0%, #233b70 100%);
+  color: #ffffff;
+  padding: 3rem 2.2rem;
+  border-radius: 10px;
+  border-left: 6px solid var(--rceh-dourado);
+  margin: 1rem 0 2.2rem 0;
+  box-shadow: 0 10px 25px rgba(22, 36, 71, 0.14);
+}
+
+.hero-rceh .sigla {
+  font-family: "Inter", sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #f6d57a;
+  margin-bottom: 0.4rem;
+}
+
+.hero-rceh h1 {
+  color: #ffffff !important;
+  font-size: 2.2rem;
+  margin: 0 0 0.75rem 0;
+  border: none;
+}
+
+.hero-rceh p {
+  font-size: 1.08rem;
+  color: #e2e8f0;
+  max-width: 720px;
+  margin-bottom: 1.3rem;
+}
+
+.badges-rceh {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.badge-rceh {
+  font-family: "Inter", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.13);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+}
+
+.acoes-rceh {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+
+.btn-rceh-primario {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 0.92rem;
+  background-color: var(--rceh-dourado);
+  color: #111827 !important;
+  padding: 0.65rem 1.25rem;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.btn-rceh-primario:hover {
+  background-color: #d8ae37;
+}
+
+.btn-rceh-secundario {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 0.92rem;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  color: #ffffff !important;
+  padding: 0.65rem 1.25rem;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.btn-rceh-secundario:hover {
+  background-color: rgba(255, 255, 255, 0.12);
+}
+
+/* Grade de cartões */
+.rceh-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1.2rem;
+  margin: 1.5rem 0 2.5rem 0;
+}
+
+.rceh-card {
+  background: #ffffff;
+  border: 1px solid var(--rceh-borda);
+  border-top: 4px solid var(--rceh-azul);
+  border-radius: 8px;
+  padding: 1.3rem;
+  box-shadow: 0 3px 10px rgba(15, 23, 42, 0.04);
+}
+
+.rceh-card h3 {
+  font-size: 1.12rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.rceh-card p {
+  font-size: 0.95rem;
+  color: #475569;
+  margin-bottom: 0.9rem;
+}
+
+.rceh-card a {
+  font-family: "Inter", sans-serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--rceh-azul-medio);
+  text-decoration: none;
+}
+
+.rceh-card a:hover {
+  text-decoration: underline;
 }
 
 .callout-rceh {
-  border-left: 4px solid #1f2e54;
-  background-color: #f6f8fb;
+  border-left: 4px solid var(--rceh-dourado);
+  background-color: var(--rceh-fundo-suave);
   padding: 1rem 1.25rem;
+  border-radius: 0 6px 6px 0;
   margin: 1.5rem 0;
 }
