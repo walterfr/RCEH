@@ -1,13 +1,15 @@
----
+﻿---
 title: "Submissões e Cadastro de Pareceristas"
 ---
 
 ## Enviar Manuscrito
-Antes de enviar seu texto, leia atentamente as [Normas para Autores](normas.qmd) e prepare os dois arquivos obrigatórios (**Folha de Rosto** e **Manuscrito Anonimizado**).
 
-* **Formulário de Submissão:** `[INSERIR_LINK_DO_FORMULARIO_1]`
+Antes de enviar seu texto, leia atentamente as [Normas para Autores](normas.qmd) e prepare os dois arquivos obrigatórios em separado (**Folha de Rosto** e **Manuscrito Anonimizado**).
+
+[Acessar Formulário de Submissão](https://forms.gle/dKcsikbzuJ6wuhhw6){.btn-rceh-primario target="_blank"}
 
 ## Chamada para Pareceristas *ad hoc*
-Pesquisadores graduados, especialistas, mestres e doutores das áreas contempladas pela RCEH podem se cadastrar como pareceristas voluntários:
 
-* **Formulário de Cadastro de Pareceristas:** `[INSERIR_LINK_DO_FORMULARIO_3]`
+Pesquisadores graduados, especialistas, mestres e doutores das áreas contempladas pela **RCEH** podem se cadastrar como pareceristas voluntários para avaliação em sistema duplo-cego:
+
+[Cadastrar-se como Parecerista](https://forms.gle/o6trcg8i6oHJtZmQ9){.btn-rceh-primario target="_blank"}
