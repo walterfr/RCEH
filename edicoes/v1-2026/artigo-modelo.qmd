@@ -1,0 +1,39 @@
+---
+title: "Título Completo do Artigo Modelo"
+author:
+  - name: "Nome do Autor Principal"
+    orcid: "0000-0000-0000-0000"
+    affiliation: "Instituição de Vínculo"
+date: "2026-11-21"
+abstract: "Resumo completo do artigo entre 150 e 250 palavras, apresentando objeto, objetivos, metodologia, fontes e principais conclusões."
+keywords:
+  - "História do Ceará"
+  - "História Urbana"
+  - "Espacialidades"
+lang: pt
+citation:
+  type: article-journal
+  container-title: "RCEH — Revista Cearense de Estudos Históricos"
+  volume: 1
+  page-first: 1
+  page-last: 20
+  doi: "10.5281/zenodo.XXXXXXX"
+  url: "https://walterfr.github.io/RCEH/edicoes/v1-2026/artigo-modelo.html"
+  pdf-url: "https://zenodo.org/records/XXXXXXX/files/artigo-modelo.pdf"
+  # issn: "XXXX-XXXX" # Descomentar após atribuição pelo CBISSN/IBICT
+---
+
+**Recebido em:** DD/MM/AAAA | **Aprovado em:** DD/MM/AAAA  
+**DOI:** [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)  
+**Download do PDF:** [Acessar versão final diagramada no Zenodo](https://zenodo.org/records/XXXXXXX/files/artigo-modelo.pdf)
+
+## Resumo
+Resumo completo do artigo em português.
+
+**Palavras-chave:** História do Ceará; História Urbana; Espacialidades.
+
+## Resumen / Abstract
+Resumo em espanhol ou inglês.
+
+## Introdução
+Texto de exemplo mostrando como publicar a página HTML do artigo com as metatags `citation_*` geradas automaticamente pelo Quarto para indexação no Google Acadêmico.

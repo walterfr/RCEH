@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "RCEH — Revista Cearense de Estudos Históricos"
+  description: "Periódico científico de acesso aberto diamante dedicado à História do Ceará, do Nordeste e diálogos historiográficos."
+  site-url: "https://walterfr.github.io/RCEH/"
+  repo-url: "https://github.com/walterfr/RCEH"
+  navbar:
+    left:
+      - text: "Início"
+        href: index.qmd
+      - text: "Edição Atual"
+        href: edicoes/v1-2026/index.qmd
+      - text: "Sobre"
+        menu:
+          - text: "Foco e Escopo"
+            href: sobre.qmd
+          - text: "Política Editorial"
+            href: politica.qmd
+          - text: "Expediente"
+            href: expediente.qmd
+      - text: "Normas para Autores"
+        href: normas.qmd
+      - text: "Submissões e Pareceristas"
+        href: submissoes.qmd
+  page-footer:
+    left: "RCEH — Revista Cearense de Estudos Históricos | Fluxo contínuo anual"
+    right: "Licença CC BY 4.0 | Acesso Aberto Diamante"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    lang: pt

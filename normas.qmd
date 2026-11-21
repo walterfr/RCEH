@@ -1,0 +1,29 @@
+---
+title: "Normas para Autores"
+---
+
+## Idiomas Aceitos
+Português e Espanhol.
+
+## Modalidades e Extensão
+*(Contagem incluindo notas de rodapé e referências bibliográficas)*
+
+* **Artigos científicos originais e Dossiês temáticos:** entre 15 e 25 laudas.
+* **Entrevistas:** entre 8 e 15 laudas.
+* **Resenhas críticas** (de obras publicadas nos últimos 3 anos): entre 4 e 8 laudas.
+
+## Formatação e Padrão ABNT
+* Envio em formato `.pdf` ou `.docx` na submissão (após o aceite, poderá ser solicitada versão editável em `.docx` para diagramação final).
+* Papel A4; margens superior e esquerda de 3 cm, inferior e direita de 2 cm.
+* Fonte Times New Roman tamanho 12 pt no corpo do texto e 10 pt em citações diretas com mais de 3 linhas, notas de rodapé e legendas.
+* Espaçamento entre linhas de 1,5 no texto e simples nas citações recuadas e referências.
+* Citações, notas e referências bibliográficas devem seguir rigorosamente as normas vigentes da **ABNT** (NBR 6023, NBR 10520, NBR 6028 e NBR 6022).
+
+## Estrutura Obrigatória do Manuscrito
+Título (no idioma original e em um segundo idioma), Resumo (150 a 250 palavras) e de 3 a 5 Palavras-chave (também em segundo idioma), introdução, desenvolvimento, considerações finais e referências.
+
+## Regras de Anonimização (Avaliação Duplo-Cega)
+A submissão exige **dois arquivos separados**:
+
+1. **Folha de Rosto:** título, nome(s) completo(s) do(s) autor(es), maior titulação acadêmica, filiação institucional, e-mail, ORCID, eventual fonte de financiamento e agradecimentos.
+2. **Manuscrito Anonimizado:** apenas o texto do trabalho, **sem qualquer identificação de autoria** no corpo do texto, nos agradecimentos, em links pessoais ou nas propriedades internas do arquivo. Autocitações na fase de avaliação devem ser substituídas por `[Autor, Ano]`.

@@ -1,0 +1,20 @@
+/* Estilo editorial sobrio para a RCEH */
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+}
+
+h1, h2, h3, .navbar, .sidebar {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.navbar {
+  background-color: #1f2e54 !important;
+}
+
+.callout-rceh {
+  border-left: 4px solid #1f2e54;
+  background-color: #f6f8fb;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}

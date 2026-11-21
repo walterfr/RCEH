@@ -1,0 +1,10 @@
+---
+title: "Volume 1 — Ano 2026"
+---
+
+**Periodicidade:** Fluxo contínuo anual (2026)  
+*(Nota: conforme ABNT NBR 6021:2015 / CBISSN, utiliza-se apenas Volume e Ano.)*
+
+## Artigos Publicados
+
+* [Modelo de Artigo Científico com Metadados do Google Acadêmico](artigo-modelo.qmd) — *Substituir pelos artigos aprovados do Volume 1.*

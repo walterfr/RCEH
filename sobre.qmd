@@ -1,0 +1,26 @@
+---
+title: "Foco e Escopo e Periodicidade"
+---
+
+## Foco e Escopo
+
+A **RCEH — Revista Cearense de Estudos Históricos** é um periódico científico de acesso aberto, gratuito e revisado por pares em sistema duplo-cego, dedicado à divulgação de pesquisas originais no campo da História e áreas afins.
+
+A revista prioriza estudos voltados à História do Ceará e do Nordeste brasileiro, mantendo-se aberta a pesquisas e diálogos historiográficos sobre outras regiões, estados e cidades do Brasil e do mundo.
+
+Entre as abordagens e linhas temáticas acolhidas destacam-se:
+
+* História do Ceará e do Nordeste
+* História do Brasil e América
+* História Urbana e Espacialidades
+* Historiografia e Teoria da História
+* História Oral, Memória e Patrimônio
+* Ensino de História e Humanidades Digitais
+* História do Tempo Presente
+* História Pública e Usos do Passado
+
+São aceitas submissões inéditas em **português** e **espanhol**, nas seguintes modalidades: artigos científicos originais, dossiês temáticos, entrevistas e resenhas críticas de obras historiográficas recentes.
+
+## Periodicidade
+
+A **RCEH — Revista Cearense de Estudos Históricos** adota o regime de **fluxo contínuo anual** (Volume único por ano civil, p. ex., Volume 1, Ano 2026). Nesse formato, os artigos aprovados são diagramados e publicados imediatamente após a conclusão do processo editorial e atribuição de DOI via [Zenodo](https://zenodo.org/), integrando o volume vigente do respectivo ano.

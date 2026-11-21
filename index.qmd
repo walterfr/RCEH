@@ -1,0 +1,19 @@
+---
+title: "RCEH — Revista Cearense de Estudos Históricos"
+subtitle: "Fluxo contínuo anual | Acesso Aberto Diamante | Revisão por pares duplo-cega"
+---
+
+::: {.callout-rceh}
+**Volume 1 — Ano 2026 (Em preparação)**  
+Submissões abertas em fluxo contínuo anual em **Português** e **Espanhol**.  
+[Submeter manuscrito](submissoes.qmd) | [Ver normas para autores](normas.qmd)
+:::
+
+## Apresentação
+
+A **RCEH — Revista Cearense de Estudos Históricos** é um periódico científico de acesso aberto, gratuito e revisado por pares em sistema duplo-cego, dedicado à divulgação de pesquisas originais no campo da História e áreas afins.
+
+A revista prioriza estudos voltados à História do Ceará e do Nordeste brasileiro, mantendo-se aberta a pesquisas e diálogos historiográficos sobre outras regiões, estados e cidades do Brasil e do mundo.
+
+## Volume Atual
+* [Volume 1 — Ano 2026](edicoes/v1-2026/index.qmd)
