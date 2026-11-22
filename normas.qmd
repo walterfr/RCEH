@@ -12,13 +12,14 @@ A extensão abaixo inclui resumo, notas e referências bibliográficas:
 
 * **Artigos científicos originais e Dossiês temáticos:** entre 15 e 25 laudas.
 * **Comunicações de Pesquisa (Graduação):** entre 5 e 10 laudas (seção formativa exclusiva para estudantes de graduação apresentarem recortes de Iniciação Científica, projetos de extensão ou pesquisas preliminares de TCC).
+* **Relatos de Experiência (Educação Básica):** entre 5 e 12 laudas (seção exclusiva para professores da Educação Básica apresentarem práticas pedagógicas, sequências didáticas, projetos escolares e experiências de ensino de História).
 * **Traduções:** entre 10 e 25 laudas (acompanhadas de autorização do detentor dos direitos autorais, quando aplicável).
 * **Entrevistas:** entre 8 e 15 laudas.
 * **Resenhas críticas** (de obras publicadas nos últimos 3 anos): entre 4 e 8 laudas.
 
 ## Coautoria e Submissão de Graduandos
 
-* **Limite máximo de autoria por modalidade:** até **3 autores** para Artigos científicos originais, Dossiês temáticos, Traduções e Comunicações de Pesquisa (Graduação); até **2 autores** para Entrevistas; e **autoria individual (1 autor)** para Resenhas críticas.
+* **Limite máximo de autoria por modalidade:** até **3 autores** para Artigos científicos originais, Dossiês temáticos, Traduções, Comunicações de Pesquisa (Graduação) e Relatos de Experiência (Educação Básica — exclusivos para docentes da Educação Básica); até **2 autores** para Entrevistas; e **autoria individual (1 autor)** para Resenhas críticas.
 * **Limite por volume:** cada autor(a) pode publicar no máximo **1 texto por volume anual** (como autor principal ou coautor).
 * **Regras para estudantes de graduação:**
   * Na seção principal de **Artigos científicos originais**, graduandos podem submeter apenas em coautoria com orientador(a) mestre ou doutor(a).
@@ -48,3 +49,4 @@ A submissão exige o envio de **dois arquivos separados**:
 
 1. **Folha de Rosto:** contendo título, nome(s) completo(s) do(s) autor(es), maior titulação acadêmica, filiação institucional (instituição, cidade, UF e país), e-mail, ORCID, eventual fonte de financiamento, declaração de origem da pesquisa, declaração de uso de IA e agradecimentos.
 2. **Manuscrito Anonimizado:** contendo apenas o texto do trabalho, **sem qualquer identificação de autoria** no corpo do texto, nos agradecimentos, em links pessoais ou nas propriedades internas do arquivo. Autocitações na fase de avaliação devem ser substituídas por `[Autor, Ano]`.
+

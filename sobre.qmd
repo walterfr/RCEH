@@ -18,10 +18,11 @@ Entre as abordagens e linhas temáticas acolhidas destacam-se:
 * História do Tempo Presente
 * História Pública e Usos do Passado
 
-São aceitas submissões inéditas em **português** e **espanhol**, nas seguintes modalidades: artigos científicos originais, dossiês temáticos, comunicações de pesquisa (graduação), entrevistas, traduções e resenhas críticas de obras historiográficas recentes.
+São aceitas submissões inéditas em **português** e **espanhol**, nas seguintes modalidades: artigos científicos originais, dossiês temáticos, comunicações de pesquisa (graduação), relatos de experiência (educação básica), entrevistas, traduções e resenhas críticas de obras historiográficas recentes.
 
 ## Periodicidade
 
 A RCEH adota o regime de **fluxo contínuo anual** (Volume único por ano civil — p. ex., Volume 1, Ano 2026). Nesse formato, os trabalhos aprovados são diagramados e publicados imediatamente após a conclusão do processo editorial e atribuição de DOI via [Zenodo](https://zenodo.org/), integrando o volume vigente do respectivo ano.
 
 *(Nota técnica — [CBISSN/IBICT](https://cbissn.ibict.br/orientacoes/): a publicação utiliza apenas a indicação de Volume e Ano, sem o termo "edição", conforme a ABNT NBR 6021:2015.)*
+
