@@ -2,7 +2,7 @@
 title: "Volume 1 — Ano 2026"
 ---
 
-[../../assets/capa-v1-2026.jpg]{width=260px fig-alt="Capa da RCEH Volume 1 Ano 2026" style="border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,0.18); margin-bottom: 1.2rem;"}
+[capa-v1-2026.jpg]{width=260px fig-alt="Capa da RCEH Volume 1 Ano 2026" style="border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,0.18); margin-bottom: 1.2rem;"}
 
 **Fluxo contínuo anual** | **Acesso Aberto Diamante** | **Licença CC BY 4.0**
 
@@ -11,3 +11,4 @@ title: "Volume 1 — Ano 2026"
 * [Editorial de Lançamento: Ampliar o Acesso, Dialogar com a Sala de Aula e Formar Novos Pesquisadores](editorial-v1-2026.qmd) — *Walter Ferreira Rebouças*
 
 ## Artigos e Textos Publicados
+
