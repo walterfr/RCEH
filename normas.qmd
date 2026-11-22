@@ -50,3 +50,23 @@ A submissão exige o envio de **dois arquivos separados**:
 1. **Folha de Rosto:** contendo título, nome(s) completo(s) do(s) autor(es), maior titulação acadêmica, filiação institucional (instituição, cidade, UF e país), e-mail, ORCID, eventual fonte de financiamento, declaração de origem da pesquisa, declaração de uso de IA e agradecimentos.
 2. **Manuscrito Anonimizado:** contendo apenas o texto do trabalho, **sem qualquer identificação de autoria** no corpo do texto, nos agradecimentos, em links pessoais ou nas propriedades internas do arquivo. Autocitações na fase de avaliação devem ser substituídas por `[Autor, Ano]`.
 
+
+## Roteiro Orientador para Relatos de Experiência e Comunicações
+
+Para apoiar docentes da Educação Básica e estudantes de graduação na estruturação inicial dos textos, recomenda-se a organização abaixo:
+
+### Relatos de Experiência (Educação Básica — 5 a 12 laudas)
+1. **Título, Resumo e Palavras-chave** (em dois idiomas; resumo de 150 a 250 palavras e 3 a 5 palavras-chave).
+2. **Contextualização escolar:** rede de ensino, etapa/modalidade, série/ano, perfil da turma e problema pedagógico enfrentado.
+3. **Objetivos e diálogo teórico-metodológico:** articulação entre a prática docente, a historiografia, o ensino de História e documentos curriculares.
+4. **Desenvolvimento da prática:** etapas executadas, fontes históricas mobilizadas, recursos didáticos e estratégias em sala de aula.
+5. **Resultados e reflexões críticas:** aprendizagens observadas, desafios encontrados e possibilidades de adaptação em outros contextos escolares.
+6. **Referências** (padrão ABNT).
+
+### Comunicações de Pesquisa (Graduação — 5 a 10 laudas)
+1. **Título, Resumo e Palavras-chave** (em dois idiomas; resumo de 150 a 250 palavras e 3 a 5 palavras-chave).
+2. **Apresentação e recorte:** tema, problema de pesquisa, justificativa e delimitação espacial/temporal.
+3. **Fontes e diálogo historiográfico:** apresentação do *corpus* documental e da bibliografia especializada de apoio.
+4. **Discussão e resultados parciais:** análise preliminar fundamentada nas fontes trabalhadas.
+5. **Considerações finais:** síntese dos achados até o momento e encaminhamentos da investigação.
+6. **Referências** (padrão ABNT).
