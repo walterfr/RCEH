@@ -97,10 +97,10 @@ toc: false
 
   <div class="rceh-bio-links">
     <a class="rceh-bio-btn destaque" href="https://forms.gle/dKcsikbzuJ6wuhhw6" target="_blank" rel="noopener">
-      Submeter Manuscrito (Formulário 1)
+      Submeter Manuscrito
     </a>
     <a class="rceh-bio-btn" href="https://forms.gle/o6trcg8i6oHJtZmQ9" target="_blank" rel="noopener">
-      Seja Parecerista ad hoc (Formulário 3)
+      Seja Parecerista ad hoc
     </a>
     <a class="rceh-bio-btn" href="https://walterfr.github.io/RCEH/" target="_blank" rel="noopener">
       Site Oficial da RCEH
@@ -127,3 +127,4 @@ toc: false
   </div>
 </div>
 ~~~
+
