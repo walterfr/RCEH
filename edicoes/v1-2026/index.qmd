@@ -10,6 +10,7 @@ title: "Volume 1 — Ano 2026"
 
 ## Editorial
 
-* [Editorial de Lançamento: Ampliar o Acesso, Dialogar com a Sala de Aula e Formar Novos Pesquisadores](editorial-v1-2026.qmd) — *Walter Ferreira Rebouças*
+* [Editorial de Lançamento: Ampliar o Acesso, Dialogar com a Sala de Aula e Formar Novos Pesquisadores](editorial-v1-2026.qmd) — *Walter Ferreira Rebouças* | DOI: [10.5281/zenodo.24450646](https://doi.org/10.5281/zenodo.24450646)
 
 ## Artigos e Textos Publicados
+

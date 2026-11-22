@@ -16,12 +16,15 @@ citation:
   type: article-journal
   container-title: "RCEH — Revista Cearense de Estudos Históricos"
   volume: 1
+  doi: "10.5281/zenodo.24450646"
   url: "https://walterfr.github.io/RCEH/edicoes/v1-2026/editorial-v1-2026.html"
+  pdf-url: "https://zenodo.org/records/24450646/files/RCEH-2026-ED01_final.pdf"
 ---
 
 **RCEH — Revista Cearense de Estudos Históricos**, Fortaleza – CE, Brasil, v. 1, Ano 2026  
-**Seção:** Editorial  
-**Publicado em:** 22/11/2026
+**Seção:** Editorial | **Publicado em:** 22/11/2026  
+**DOI:** [https://doi.org/10.5281/zenodo.24450646](https://doi.org/10.5281/zenodo.24450646)  
+**Download do PDF:** [Acessar versão oficial diagramada no Zenodo](https://zenodo.org/records/24450646/files/RCEH-2026-ED01_final.pdf){target="_blank"}
 
 É com grande satisfação que apresentamos à comunidade acadêmica e escolar o primeiro volume da **RCEH — Revista Cearense de Estudos Históricos** (Volume 1, Ano 2026). Este projeto editorial nasce do desejo de contribuir para a democratização do conhecimento histórico por meio de uma publicação independente, gratuita em todas as suas etapas — o **Acesso Aberto Diamante** — e estruturada em **fluxo contínuo anual**, com revisão por pares em sistema duplo-cego e atribuição de identificador persistente (DOI).
 
@@ -42,4 +45,4 @@ Fortaleza – CE, Brasil, 2026
 
 ## Como citar este editorial (ABNT)
 
-REBOUÇAS, Walter Ferreira. Editorial de Lançamento: Ampliar o Acesso, Dialogar com a Sala de Aula e Formar Novos Pesquisadores. **RCEH — Revista Cearense de Estudos Históricos**, Fortaleza, v. 1, 2026. Disponível em: <https://walterfr.github.io/RCEH/edicoes/v1-2026/editorial-v1-2026.html>.
+REBOUÇAS, Walter Ferreira. Editorial de Lançamento: Ampliar o Acesso, Dialogar com a Sala de Aula e Formar Novos Pesquisadores. **RCEH — Revista Cearense de Estudos Históricos**, Fortaleza, v. 1, Ano 2026. DOI: [10.5281/zenodo.24450646](https://doi.org/10.5281/zenodo.24450646). Disponível em: &lt;<https://walterfr.github.io/RCEH/edicoes/v1-2026/editorial-v1-2026.html>&gt;.
