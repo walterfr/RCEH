@@ -19,8 +19,10 @@ title: "Expediente"
 
 ### Editor-Chefe e Responsável Técnico
 * **Walter Ferreira Rebouças** — Mestrando do Programa de Pós-Graduação em História, Culturas e Espacialidades (PPGHCE-UECE); Professor efetivo da Secretaria da Educação do Estado do Ceará (SEDUC-CE), Fortaleza, CE, Brasil.  
-  **Contato:** [walterfr@gmail.com](mailto:walterfr@gmail.com) | **ORCID:** [0000-0001-5420-7187](https://orcid.org/0000-0001-5420-7187) | **Currículo Lattes:** [http://lattes.cnpq.br/0326539875036623](http://lattes.cnpq.br/0326539875036623)
+  **Contato:** [walterfr@gmail.com](mailto:walterfr@gmail.com) | **ORCID:** [0000-0001-5420-7187](https://orcid.org/0000-0001-5420-7187) | **Currículo Lattes:** [http://lattes.cnpq.br/0326539875036623](http://lattes.cnpq.br/0326539875036623)  
+  **Projeto correlato:** [DatasFatosCE](https://walterfr.github.io/DatasFatosCE/)
 
 ## Conselho Editorial
 
 * Em fase de constituição. *(Os nomes completos, titulações e afiliações institucionais — instituição, cidade e país — serão publicados nesta seção antes do protocolo do pedido de ISSN junto ao CBISSN/IBICT.)*
+

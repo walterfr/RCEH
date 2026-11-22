@@ -26,3 +26,7 @@ A RCEH adota o regime de **fluxo contínuo anual** (Volume único por ano civil 
 
 *(Nota técnica — [CBISSN/IBICT](https://cbissn.ibict.br/orientacoes/): a publicação utiliza apenas a indicação de Volume e Ano, sem o termo "edição", conforme a ABNT NBR 6021:2015.)*
 
+
+## Recursos Relacionados
+
+* [DatasFatosCE](https://walterfr.github.io/DatasFatosCE/) — Acervo e cronologia histórica sob responsabilidade de Walter Ferreira Rebouças.
