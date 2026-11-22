@@ -1,10 +1,13 @@
----
+﻿---
 title: "Volume 1 — Ano 2026"
 ---
 
-**Periodicidade:** Fluxo contínuo anual (2026)  
-*(Nota: conforme ABNT NBR 6021:2015 / CBISSN, utiliza-se apenas Volume e Ano.)*
+[../../assets/capa-v1-2026.jpg]{width=260px fig-alt="Capa da RCEH Volume 1 Ano 2026" style="border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,0.18); margin-bottom: 1.2rem;"}
 
-## Artigos Publicados
+**Fluxo contínuo anual** | **Acesso Aberto Diamante** | **Licença CC BY 4.0**
 
-* [Modelo de Artigo Científico com Metadados do Google Acadêmico](artigo-modelo.qmd) — *Substituir pelos artigos aprovados do Volume 1.*
+## Editorial
+
+* [Editorial de Lançamento: Ampliar o Acesso, Dialogar com a Sala de Aula e Formar Novos Pesquisadores](editorial-v1-2026.qmd) — *Walter Ferreira Rebouças*
+
+## Artigos e Textos Publicados

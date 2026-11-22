@@ -1,0 +1,45 @@
+﻿---
+title: "Editorial de Lançamento: Ampliar o Acesso, Dialogar com a Sala de Aula e Formar Novos Pesquisadores"
+author:
+  - name: "Walter Ferreira Rebouças"
+    orcid: "0000-0001-5420-7187"
+    affiliation: "Universidade Estadual do Ceará (PPGHCE-UECE) / SEDUC-CE, Fortaleza, CE, Brasil"
+date: "2026-11-22"
+abstract: "Editorial de abertura do Volume 1 (Ano 2026) da RCEH — Revista Cearense de Estudos Históricos, apresentando a proposta de Acesso Aberto Diamante, fluxo contínuo anual e as seções dedicadas à pesquisa histórica, à iniciação científica na graduação e aos relatos de experiência da Educação Básica."
+keywords:
+  - "Editorial"
+  - "Historiografia"
+  - "Acesso Aberto Diamante"
+  - "Ensino de História"
+lang: pt
+citation:
+  type: article-journal
+  container-title: "RCEH — Revista Cearense de Estudos Históricos"
+  volume: 1
+  url: "https://walterfr.github.io/RCEH/edicoes/v1-2026/editorial-v1-2026.html"
+---
+
+**RCEH — Revista Cearense de Estudos Históricos**, Fortaleza – CE, Brasil, v. 1, Ano 2026  
+**Seção:** Editorial  
+**Publicado em:** 22/11/2026
+
+É com grande satisfação que apresentamos à comunidade acadêmica e escolar o primeiro volume da **RCEH — Revista Cearense de Estudos Históricos** (Volume 1, Ano 2026). Este projeto editorial nasce do desejo de contribuir para a democratização do conhecimento histórico por meio de uma publicação independente, gratuita em todas as suas etapas — o **Acesso Aberto Diamante** — e estruturada em **fluxo contínuo anual**, com revisão por pares em sistema duplo-cego e atribuição de identificador persistente (DOI).
+
+Concebida a partir de Fortaleza, no Ceará, a RCEH dedica-se à pesquisa histórica em diálogo permanente com a teoria da história, a historiografia, o ensino de História e os estudos sobre espacialidades. Mais do que um repositório de resultados acabados, queremos que a revista funcione como um espaço vivo de interlocução entre diferentes gerações e lugares de produção do saber histórico.
+
+Por essa razão, além das seções tradicionais de **Artigos científicos originais**, **Dossiês temáticos**, **Traduções**, **Entrevistas** e **Resenhas críticas**, o periódico inaugura duas frentes editoriais que traduzem seu compromisso formativo e social:
+
+1. A seção **Comunicações de Pesquisa (Graduação)**, concebida para que estudantes de graduação e iniciação científica possam submeter textos curtos (5 a 10 laudas) e vivenciar, desde cedo, o rigor da escrita acadêmica e o diálogo construtivo com pareceres qualificados;
+2. A seção **Relatos de Experiência (Educação Básica)**, espaço exclusivo para professoras e professores da Educação Básica compartilharem práticas pedagógicas, sequências didáticas e reflexões construídas no cotidiano da sala de aula.
+
+Coerente com essa proposta de dinamizar tanto quem produz quanto quem avalia conhecimento histórico, a RCEH adota um sistema escalonado de avaliação por pares: manuscritos de mestres e doutores são avaliados por doutores(as), ao passo que trabalhos de graduandos, graduados e especialistas — incluindo os relatos docentes — podem receber pareceres formativos de mestrandos(as) e doutorandos(as), além de mestres e doutores.
+
+Agradecemos a todas e todos os pesquisadores, docentes da Educação Básica, pareceristas *ad hoc* e leitores que acolhem e fortalecem este primeiro volume. Convidamos a comunidade historiadora do Ceará, do Brasil e do espaço ibero-americano a submeter seus trabalhos e caminhar conosco na construção deste periódico.
+
+**Walter Ferreira Rebouças**  
+Editor-Chefe — RCEH (Revista Cearense de Estudos Históricos)  
+Fortaleza – CE, Brasil, 2026
+
+## Como citar este editorial (ABNT)
+
+REBOUÇAS, Walter Ferreira. Editorial de Lançamento: Ampliar o Acesso, Dialogar com a Sala de Aula e Formar Novos Pesquisadores. **RCEH — Revista Cearense de Estudos Históricos**, Fortaleza, v. 1, 2026. Disponível em: <https://walterfr.github.io/RCEH/edicoes/v1-2026/editorial-v1-2026.html>.
