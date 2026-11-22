@@ -2,12 +2,25 @@
 title: "Expediente"
 ---
 
-* **Título:** RCEH — Revista Cearense de Estudos Históricos
-* **ISSN (Online):** Em processo de solicitação ao Centro Brasileiro do ISSN ([CBISSN/IBICT](https://cbissn.ibict.br/orientacoes/))
-* **Periodicidade:** Fluxo contínuo anual (Volume único por ano civil)
-* **Site oficial:** [https://walterfr.github.io/RCEH/](https://walterfr.github.io/RCEH/)
-* **Repositório oficial:** [https://github.com/walterfr/RCEH](https://github.com/walterfr/RCEH)
-* **E-mail editorial:** [walterfr@gmail.com](mailto:walterfr@gmail.com)
-* **Pessoa física responsável / Editor-Chefe:** Walter Ferreira Rebouças — Fortaleza, Ceará, Brasil (`walterfr@gmail.com`)
-* **Conselho Editorial:** `[Preencher antes do pedido de ISSN com Nome completo, Titulação, Nome completo da instituição, Cidade/UF e País — mantendo ao menos 2/3 de membros externos]`
-* **Licença de Acesso Aberto:** Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)
+## Dados Gerais do Periódico
+
+| Campo | Informação Editorial |
+| :--- | :--- |
+| **Título do Periódico** | RCEH — Revista Cearense de Estudos Históricos |
+| **ISSN (Online)** | Em processo de solicitação ao [CBISSN/IBICT](https://cbissn.ibict.br/orientacoes/) |
+| **Periodicidade** | Fluxo contínuo anual |
+| **Idiomas** | Português e Espanhol |
+| **Licença de Acesso Aberto** | [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br) |
+| **E-mail Editorial** | [walterfr@gmail.com](mailto:walterfr@gmail.com) |
+| **Site Oficial** | <https://walterfr.github.io/RCEH/> |
+| **Repositório Oficial** | <https://github.com/walterfr/RCEH> |
+
+## Equipe Editorial
+
+### Editor-Chefe e Responsável Técnico
+* **Walter Ferreira Rebouças** — Mestrando do Programa de Pós-Graduação em História, Culturas e Espacialidades (PPGHCE-UECE); Professor efetivo da Secretaria da Educação do Estado do Ceará (SEDUC-CE), Fortaleza, CE, Brasil.  
+  **Contato:** [walterfr@gmail.com](mailto:walterfr@gmail.com) | **ORCID:** [0000-0001-5420-7187](https://orcid.org/0000-0001-5420-7187) | **Currículo Lattes:** [http://lattes.cnpq.br/0326539875036623](http://lattes.cnpq.br/0326539875036623)
+
+## Conselho Editorial
+
+* Em fase de constituição. *(Os nomes completos, titulações e afiliações institucionais — instituição, cidade e país — serão publicados nesta seção antes do protocolo do pedido de ISSN junto ao CBISSN/IBICT.)*
