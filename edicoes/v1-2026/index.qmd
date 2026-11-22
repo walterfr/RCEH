@@ -2,7 +2,9 @@
 title: "Volume 1 — Ano 2026"
 ---
 
-[capa-v1-2026.jpg]{width=260px fig-alt="Capa da RCEH Volume 1 Ano 2026" style="border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,0.18); margin-bottom: 1.2rem;"}
+<p>
+  <img src="capa-v1-2026.jpg" alt="Capa da RCEH Volume 1 Ano 2026" style="width: 260px; max-width: 100%; border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,0.18);">
+</p>
 
 **Fluxo contínuo anual** | **Acesso Aberto Diamante** | **Licença CC BY 4.0**
 
