@@ -4,7 +4,7 @@ title: "Sobre a Revista"
 
 A **RCEH — Revista Cearense de Estudos Históricos** é um periódico científico de acesso aberto, gratuito e revisado por pares em sistema duplo-cego, dedicado à divulgação de pesquisas originais no campo da História e áreas afins.
 
-A revista prioriza estudos voltados à História do Ceará e do Nordeste brasileiro, mantendo-se aberta a pesquisas e diálogos historiográficos sobre outras regiões, estados e cidades do Brasil e do mundo.
+Com sede editorial em Fortaleza (CE), a revista acolhe pesquisas históricas sobre diferentes contextos regionais, nacionais e internacionais, incentivando o diálogo entre pesquisadores(as) do Ceará, do Brasil e do exterior.
 
 Entre as abordagens e linhas temáticas acolhidas destacam-se:
 
@@ -30,3 +30,4 @@ A RCEH adota o regime de **fluxo contínuo anual** (Volume único por ano civil 
 ## Recursos Relacionados
 
 * [DatasFatosCE](https://walterfr.github.io/DatasFatosCE/) — Acervo e cronologia histórica sob responsabilidade de Walter Ferreira Rebouças.
+
