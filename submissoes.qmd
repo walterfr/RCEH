@@ -9,7 +9,7 @@ Antes de enviar seu trabalho, confira atentamente as [Normas para Autores](norma
 1. **Folha de Rosto** (com identificação completa dos autores, afiliação, ORCID e declarações);
 2. **Manuscrito Anonimizado** (sem qualquer identificação de autoria no texto ou nas propriedades do arquivo).
 
-[Acessar Formulário 1 — Submissão de Manuscritos](https://forms.gle/dKcsikbzuJ6wuhhw6){.btn .btn-warning target="_blank"}
+[Submissão de Manuscritos](https://forms.gle/dKcsikbzuJ6wuhhw6){.btn .btn-warning target="_blank"}
 
 ## Chamada Pública para Pareceristas *ad hoc*
 
@@ -20,4 +20,5 @@ A **RCEH — Revista Cearense de Estudos Históricos** mantém chamada aberta pe
 * **Manuscritos de autores com Mestrado ou Doutorado:** avaliados por pareceristas com titulação mínima de **Doutor(a)**.
 * **Manuscritos de graduandos (*Comunicações de Pesquisa*), graduados ou especialistas:** podem ser avaliados por **mestrandos e doutorandos** (além de mestres e doutores), assegurando rigor metodológico e retorno formativo.
 
-[Cadastrar-se no Formulário 3 — Pareceristas ad hoc](https://forms.gle/o6trcg8i6oHJtZmQ9){.btn .btn-outline-primary target="_blank"}
+[Cadastro de Pareceristas ad hoc](https://forms.gle/o6trcg8i6oHJtZmQ9){.btn .btn-warning target="_blank"}
+
